@@ -1,0 +1,31 @@
+# Translation of Statement in English (Australia)
+# This file is distributed under the same license as the Statement package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-14 22:49:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Statement\n"
+
+#. Theme Name of the plugin/theme
+msgid "Statement"
+msgstr "Statement"
+
+#. Description of the plugin/theme
+msgid "Statement is a GeneratePress child theme. Using GeneratePress you can alter the child theme to your taste in minutes. Statement is mobile responsive, W3C Markup Validated, Schema.org integrated, search engine friendly, cross browser compatible, WooCommerce compatible and 100% translatable. See more about GeneratePress here: http://generatepress.com"
+msgstr "Statement is a GeneratePress child theme. Using GeneratePress you can alter the child theme to your taste in minutes. Statement is mobile responsive, W3C Markup Validated, Schema.org integrated, search engine friendly, cross browser compatible, WooCommerce compatible and 100% translatable. See more about GeneratePress here: http://generatepress.com"
+
+#. Author URI of the plugin/theme
+msgid "http://edge22.com"
+msgstr "http://edge22.com"
+
+#. Author of the plugin/theme
+msgid "Thomas Usborne"
+msgstr "Thomas Usborne"
+
+#. Theme URI of the plugin/theme
+msgid "https://generatepress.com/statement/"
+msgstr "https://generatepress.com/statement/"

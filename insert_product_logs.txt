@@ -1,0 +1,45 @@
+Attribute inserted with ID: 14
+Attribute inserted with ID: 15
+Attribute inserted with ID: 16
+Attribute inserted with ID: 17
+Attribute inserted with ID: 18
+download_url: C:\Users\ISMAEL~1\AppData\Local\Temp/Logo-NHhmA5.tmp
+ThumbID: 19
+download_url2: C:\Users\ISMAEL~1\AppData\Local\Temp/NFLpredict-FBxafh.tmp
+ThumbID2: 20
+Attribute inserted with ID: 54
+Attribute inserted with ID: 55
+Attribute inserted with ID: 56
+Attribute inserted with ID: 57
+Attribute inserted with ID: 58
+download_url: C:\Users\ISMAEL~1\AppData\Local\Temp/Logo-njfSH0.tmp
+Attribute inserted with ID: 60
+Attribute inserted with ID: 61
+Attribute inserted with ID: 62
+Attribute inserted with ID: 63
+Attribute inserted with ID: 64
+download_url: C:\Users\ISMAEL~1\AppData\Local\Temp/Logo-eBBqso.tmp
+Attribute inserted with ID: 66
+Attribute inserted with ID: 67
+Attribute inserted with ID: 68
+Attribute inserted with ID: 69
+Attribute inserted with ID: 70
+download_url: C:\Users\ISMAEL~1\AppData\Local\Temp/Logo-h0CnqY.tmp
+Attribute inserted with ID: 72
+Attribute inserted with ID: 73
+Attribute inserted with ID: 74
+Attribute inserted with ID: 75
+Attribute inserted with ID: 76
+download_url: C:\Users\ISMAEL~1\AppData\Local\Temp/Logo-oLbeGy.tmp
+Attribute inserted with ID: 78
+Attribute inserted with ID: 79
+Attribute inserted with ID: 80
+Attribute inserted with ID: 81
+Attribute inserted with ID: 82
+download_url: C:\Users\ISMAEL~1\AppData\Local\Temp/Logo-CzMPO1.tmp
+Attribute inserted with ID: 84
+Attribute inserted with ID: 85
+Attribute inserted with ID: 86
+Attribute inserted with ID: 87
+Attribute inserted with ID: 88
+download_url: C:\Users\ISMAEL~1\AppData\Local\Temp/Logo-Q7rhOT.tmp
