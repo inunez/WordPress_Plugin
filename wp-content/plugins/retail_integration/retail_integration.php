@@ -79,6 +79,7 @@ class RetailIntegration {
        ?>
             <div id="settings" class="wrap">
                 <h2>Retail integration Settings
+                    <h3>Added
             </div>
        <?php
     }
