@@ -184,15 +184,15 @@ class RetailIntegration {
     }
 
     function superatic_ei_receiveProducts() {
-        $usr = 'wsi';
-        $password = 'wsipass';
-        $clientID = '9bf6dd42-35b9-46dd-948a-1c3c91906caa';
-        $url = "http://v2wsisandbox.retailexpress.com.au/dotnet/admin/webservices/v2/webstore/service.asmx?wsdl";
+//        $usr = 'wsi';
+//        $password = 'wsipass';
+//        $clientID = '9bf6dd42-35b9-46dd-948a-1c3c91906caa';
+//        $url = "http://v2wsisandbox.retailexpress.com.au/dotnet/admin/webservices/v2/webstore/service.asmx?wsdl";
 
-//        $usr = 'DEV';
-//        $password = 'nJDonVpA';
-//        $clientID = 'da7aa99b-42b1-4576-86d5-727f7ac61f7c';
-//        $url = "http://fashionbar.retailexpress.com.au/dotnet/admin/webservices/v2/webstore/service.asmx?wsdl";
+        $usr = 'DEV';
+        $password = 'nJDonVpA';
+        $clientID = 'da7aa99b-42b1-4576-86d5-727f7ac61f7c';
+        $url = "http://fashionbar.retailexpress.com.au/dotnet/admin/webservices/v2/webstore/service.asmx?wsdl";
         
         $mode = array(
             'soap_version' => 'SOAP_1_1', // use soap 1.1 client
