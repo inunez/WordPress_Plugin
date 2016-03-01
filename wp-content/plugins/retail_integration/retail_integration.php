@@ -24,6 +24,8 @@ if (!defined('ABSPATH')) {
 class RetailIntegration {
     
     private $payment_method_table = 'retail_integration_payment_method';
+    
+    
     /**
      * Hook onto all of the actions and filters needed by the plugin.
      */
@@ -46,7 +48,7 @@ class RetailIntegration {
         
         //add_action('init', array($this, 'superatic_ei_receiveProducts'));
         //add_action('init', array($this, 'superatic_ei_processOrders'));
-
+        include_once ('admin_page.php');
     }
     
     function mami(){
@@ -82,6 +84,7 @@ class RetailIntegration {
                     <h3>Added
             </div>
        <?php
+       get_calendar(TRUE);
     }
     
     
